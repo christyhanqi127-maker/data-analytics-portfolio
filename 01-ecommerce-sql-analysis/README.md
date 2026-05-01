@@ -1,5 +1,9 @@
 # E-Commerce Customer Behavior Analysis
 
+## 🔗 Quick Access
+
+- 📄 [View Full SQL Analysis](./analysis.sql)
+
 ## Overview
 Analyzed global e-commerce customer behavior using SQL and Excel to identify revenue drivers, customer segmentation, retention patterns, and purchasing behavior.
 
