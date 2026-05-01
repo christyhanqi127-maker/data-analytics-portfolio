@@ -1,5 +1,8 @@
 # Airbnb Price Prediction
 
+## 🔗 Quick Access
+- 📓 [View Full Analysis Notebook](./airbnb_price_prediction.ipynb)
+
 ## Overview
 Built machine learning models to predict Airbnb listing prices and generate market insights for hosts, investors, and property managers.
 
