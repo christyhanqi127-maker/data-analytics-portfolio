@@ -1,7 +1,7 @@
 # Big W Retail Sales Analysis
 
 ## 🔗 Quick Access
-- 📓 [View Full Analysis Notebook](./bigw_analysis.ipynb)
+- 📓 [View Full Analysis Notebook](./bigw.ipynb)
 
 ## Overview
 Analyzed Big W retail sales data to identify sales drivers, media investment impact, customer segments, and store expansion opportunities.
