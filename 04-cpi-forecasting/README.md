@@ -1,5 +1,8 @@
 # CPI Forecasting and Time Series Analysis
 
+## 🔗 Quick Access
+- 📓 [View Full CPI Analysis Notebook](./cpi_analysis.ipynb)
+  
 ## Overview
 Forecasted Consumer Price Index trends using statistical and machine learning models to analyze inflation patterns and model performance.
 
